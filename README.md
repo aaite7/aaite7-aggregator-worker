@@ -1,0 +1,1 @@
+# aaite7-aggregator-worker
